@@ -19,8 +19,7 @@ namespace WindowsFormsApp3
 
         private void Form1_Load(object sender, System.EventArgs e)
         {
-            this.BackColor = Color.Black;
-            this.TransparencyKey = Color.Black;
+            
         }
     }
 }
